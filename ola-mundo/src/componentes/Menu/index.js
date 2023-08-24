@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from './Menu.module.css'
 import MenuLink from '../MenuLink'
 
